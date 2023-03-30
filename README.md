@@ -1,4 +1,4 @@
-# JS-erercise-1
+# JS-exercise-1
 1. Wykonaj polecenie fork na projekcie a następnie sklonuj projekt ze swojego repozytorium
 2. Zaimplementuj counter jak na poniższym obrazku.
 3. Przycisk Increse zwiększa counter o 1. Jeśli wartość w counter jest większa niż 0 to czcionka zmienia swój kolor na zielony.
